@@ -1,18 +1,22 @@
-MEANauthapp
+# MEANauthapp
 
 Complete MEAN stack application with authentication using json web tokens
 
-Version
-
+### Version
 1.0.0
 
-Usage
+## Usage
 
-Installation
+
+### Installation
 
 Install the dependencies
 
+```sh
 $ npm install
+```
 Run app
 
+```sh
 $ npm start
+```
